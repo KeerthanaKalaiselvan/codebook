@@ -20,7 +20,7 @@ useTitle("Dashboard")
       setOrders(data);
     }
     fetchOrders();
-  }, []);
+  }, []);  //eslint-disable-line
 
   return (
     <main>
