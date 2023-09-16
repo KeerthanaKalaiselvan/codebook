@@ -5,22 +5,22 @@ export const Faq = () => {
         {
             "id": 1,
             "question": "Why should I use CodeBook?",
-            "answer": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus earum dicta nesciunt, nulla alias consequuntur cumque incidunt saepe mollitia esse! Magni praesentium delectus excepturi nostrum illo repellendus cum eius neque, aperiam dolores quaerat quis dolore magnam doloremque minus sint nemo qui necessitatibus at. Perspiciatis, corrupti cum labore quos odio porro!"
+            "answer": "Using CodeBook can be a valuable way to access a diverse range of coding-related books, allowing you to learn at your own pace, deepen your knowledge, and stay up-to-date with the latest developments in the world of coding and programming."
         },
         {
             "id": 2,
             "question": "Can I access my eBook on mobile?",
-            "answer": "Lorem ipsum dolor sit amet consectetur adipisicing elit. At accusamus nobis tempore perferendis qui, quam, atque reprehenderit vero quaerat, assumenda pariatur eveniet. Maxime eaque, neque corrupti ad minus repudiandae consectetur!"
+            "answer": "Yes, you can access your eBooks purchased through CodeBook on your mobile device. Most eBook platforms and readers have mobile apps available for both iOS and Android. After purchasing a coding-related eBook from CodeBook, you can simply download the associated app, log in with your account, and access your eBooks on your mobile device. This allows you to learn and reference coding materials on the go, making it convenient for studying and practicing programming concepts anytime, anywhere."
         },
         {
             "id": 3,
             "question": "Do you offer refunds?",
-            "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iste dolor deserunt expedita quam fugit et inventore amet pariatur. Animi."
+            "answer": "Yes, refunds for purchases made on CodeBook are available. CodeBook likely has a refund policy in place for coding-related book purchases. To initiate a refund, you should refer to the refund policy section and follow the provided instructions. Be sure to adhere to any specified timeframes and conditions outlined in their policy to ensure a successful refund process."
         },
         {
             "id": 4,
-            "question": "Do you support Internation payments?",
-            "answer": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iste dolor deserunt expedita quam fugit et inventore amet pariatur. Animi."
+            "question": "Do you support International payments?",
+            "answer": "Yes, CodeBook likely supports international payments. Many online bookstores, including those selling coding-related books, typically accept various international payment methods such as credit cards, PayPal, and sometimes even local payment options, making it convenient for customers worldwide to make purchases. You should check the payment options provided on the CodeBook website to confirm their support for international payments."
         }
     ];
 
